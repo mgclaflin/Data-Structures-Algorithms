@@ -16,7 +16,14 @@
 
 
 how to remove a file from the git repository - using the "tempFile.txt" for this example
--- the tempFile is currently untracked, then use "git add *"
+-- the tempFile is currently untracked, then use "git add *", all files are now being tracked, "git commit"
+-- to remove the file from the git repository that we don't want to be there we use the following commands
+1. to delete from the git repository use "git rm --cached <file path>tempFile.txt"
+2. must include the file path to the file name otherwise it will not be recognized
+3. now you can remove it from the project by deleting it from the local directory or you can make sure you don' add it to future commits/staging
+
+
+
 
 
 
