@@ -77,6 +77,12 @@ BRANCHING
 1. "git branch -d <b>" <b>- branch name to delete
 -- the command above deletes the named branch
 
+1. "git merge <b>" <b>-branch to merge
+-- command above is to merge the <b> branch with the branch that you are currently working in
+
+1. "git push origin <b>" <b> - branch name to push to the remote repository
+-- the command above pushes your current local working branch to the remote repository branch to the <b> branch named
+-- this command will create the branch if it doesn't already exist & pushes to the branch if it already exists
 
 
 
