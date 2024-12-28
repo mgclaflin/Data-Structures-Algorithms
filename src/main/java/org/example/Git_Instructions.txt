@@ -84,9 +84,11 @@ BRANCHING
 -- the command above pushes your current local working branch to the remote repository branch to the <b> branch named
 -- this command will create the branch if it doesn't already exist & pushes to the branch if it already exists
 
-
 1. "git log graph"
 -- the command above is to visually view your commits and changes to the different branches
 -- this requires the extension git graph to be installed to the IDE
+
+1. "git pull origin <b>" <b> - branch to pull from
+-- the command above pulls the current version of the specified branch from the remote repository
 
 
