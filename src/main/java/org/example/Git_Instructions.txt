@@ -40,6 +40,18 @@ copy SSH link from created git hub repository and do the following commands to p
 
 pushing changes commited from local repository to remote repository
 1. "git commit -a -m """
+2. "git push origin main"
+-- use to command above to push to remote repository. replace "main" with the branch you want to push to if it is different
+-- I am able to see the changes made within the commit details on github
+
+git remote -v
+-- command above is used to see origin details
+
+
+TAGGING
+1. "git tag" to show history of tags
+2. Annotated tagging: "git tag -a <t> -m <m>" <t>- tag/version number v1.0 <m>- message to be shown
+3. "git show <tag>" used to show details for the tag you select
 
 
 
