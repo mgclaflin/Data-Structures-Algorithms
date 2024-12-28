@@ -1,0 +1,7 @@
+1. Use "git init -b main" to initiate a local git repository
+2. "git status" useful command to get status/info
+-- by default created files will be a part of the local working directory, you will need to explicity add to the git branch/repository
+-- starts on "master" branch but we don't want to use this to start
+3. use "git init -b main" to create a main branch
+4. "git add *" to add all files to staging area to be tracked/managed by git. use "git add <file name>" for a specific file
+
