@@ -4,4 +4,9 @@
 -- starts on "master" branch but we don't want to use this to start
 3. use "git init -b main" to create a main branch
 4. "git add *" to add all files to staging area to be tracked/managed by git. use "git add <file name>" for a specific file
+5. "git log" command to see history of commits
+6. "git commit -m "message" " to commit all files/file changes to the branch
+-- must save changes within your local working directory before you can push the changes to git
+7. must add changes to staging area "git add *"
+
 
