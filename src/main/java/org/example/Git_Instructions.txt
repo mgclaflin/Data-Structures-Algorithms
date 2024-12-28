@@ -7,6 +7,11 @@
 5. "git log" command to see history of commits
 6. "git commit -m "message" " to commit all files/file changes to the branch
 -- must save changes within your local working directory before you can push the changes to git
-7. must add changes to staging area "git add *"
+7. must add changes to staging area "git add *" and then use "git commit-m "message" "
+8. you can do staging & commiting it on command "git commit -a -m "message" "
+
+
+"git diff" command
+- this command allows you to display/see the changes between your local file & the file in the git repository
 
 
