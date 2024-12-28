@@ -69,6 +69,10 @@ BRANCHING
 1. "git branch"
 -- the commaned above is used for checking on branches & which one is active
 
+-- you can commit and add changes to the branch that you are currently using
+-- when you switch branches the changes made in one branch will not be present in the other branch
+
+
 
 
 
