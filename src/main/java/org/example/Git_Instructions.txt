@@ -24,6 +24,8 @@ how to remove a file from the git repository - using the "tempFile.txt" for this
 
 
 
+REMOTE REPOSITORY
+
 All the work above has been on a local repository, everything following will be connected to a remote repository
 this enables collaboration with people on multiple devices/on your team working on different parts of functionality
 
