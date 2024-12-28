@@ -60,10 +60,15 @@ CLONING
 
 
 BRANCHING
---creating a branch
-1. "git switch -b <b>" or "git checkout -b <b>" <b>- new branch name that is to be created
---switching to a branch
-"git switch <b>" or "git checkout <b>" switch is the new version
+1. "git switch -c <b>" or "git checkout -c <b>" <b>- new branch name that is to be created
+-- the command above is used to create a branch
+
+1. "git switch <b>" or "git checkout <b>" switch is the new version
+-- the command above is used for switching to a branch
+
+1. "git branch"
+-- the commaned above is used for checking on branches & which one is active
+
 
 
 
