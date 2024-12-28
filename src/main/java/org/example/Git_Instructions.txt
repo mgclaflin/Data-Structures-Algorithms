@@ -11,7 +11,13 @@
 8. you can do staging & commiting it on command "git commit -a -m "message" "
 
 
-"git diff" command
+"git diff" command, if the file is in staging then use "git diff --staged"
 - this command allows you to display/see the changes between your local file & the file in the git repository
+
+
+how to remove a file from the git repository - using the "tempFile.txt" for this example
+-- the tempFile is currently untracked, then use "git add *"
+
+
 
 
