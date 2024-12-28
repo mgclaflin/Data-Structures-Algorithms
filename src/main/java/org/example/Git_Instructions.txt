@@ -67,9 +67,9 @@ BRANCHING
 -- the command above is used for switching to a branch
 
 1. "git branch"
--- the commaned above is used for checking on branches & which one is active
+-- the command above is used for checking on branches & which one is active
 2. "git branch --all"
--- the command above is to to view all branches including local & remote
+-- the command above is to view all branches including local & remote
 
 -- you can commit and add changes to the branch that you are currently using
 -- when you switch branches the changes made in one branch will not be present in the other branch
