@@ -52,7 +52,18 @@ TAGGING
 1. "git tag" to show history of tags
 2. Annotated tagging: "git tag -a <t> -m <m>" <t>- tag/version number v1.0 <m>- message to be shown
 3. "git show <tag>" used to show details for the tag you select
+4. "git push origin <tag>" use the code to push the tags individually
 
+CLONING
+1. "git clone <http/ssh>"
+-- above command downloads the remote repository from the location specified
+
+
+BRANCHING
+--creating a branch
+1. "git switch -b <b>" or "git checkout -b <b>" <b>- new branch name that is to be created
+--switching to a branch
+"git switch <b>" or "git checkout <b>" switch is the new version
 
 
 
