@@ -85,4 +85,8 @@ BRANCHING
 -- this command will create the branch if it doesn't already exist & pushes to the branch if it already exists
 
 
+1. "git log graph"
+-- the command above is to visually view your commits and changes to the different branches
+-- this requires the extension git graph to be installed to the IDE
+
 
