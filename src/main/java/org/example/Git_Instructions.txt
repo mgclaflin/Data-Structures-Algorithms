@@ -24,7 +24,15 @@ how to remove a file from the git repository - using the "tempFile.txt" for this
 
 
 
+All the work above has been on a local repository, everything following will be connected to a remote repository
+this enables collaboration with people on multiple devices/on your team working on different parts of functionality
 
+"git clone "git hub repository link" "
+-- use this command to copy a github repository to your local repository/device
 
+copy SSH link from created git hub repository and do the following commands to push your local repository to it
+1. git remote add origin <SSH link>
+2. git branch -M main
+3. git push -u origin main
 
 
