@@ -32,7 +32,15 @@ this enables collaboration with people on multiple devices/on your team working 
 
 copy SSH link from created git hub repository and do the following commands to push your local repository to it
 1. git remote add origin <SSH link>
+-- it should verify your login credentials with a pop up
 2. git branch -M main
-3. git push -u origin main
+3. ssh-keygen -o ***timestamp 22:18***
+4. git push -u origin main
+
+
+pushing changes commited from local repository to remote repository
+1. "git commit -a -m """
+
+
 
 
